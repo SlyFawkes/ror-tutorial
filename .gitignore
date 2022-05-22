@@ -146,7 +146,7 @@ yarn-debug.log*
 # .idea/modules
 # *.iml
 # *.ipr
-
+.idea/*.cache
 # CMake
 cmake-build-*/
 
